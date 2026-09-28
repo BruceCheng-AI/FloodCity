@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "asset": "/city/landmark-detail.glb",
+  "asset": "/FloodCity/city/landmark-detail.glb",
   "assetStats": {
     "file": "landmark-detail.glb",
     "bytes": 2163100,
@@ -1371,7 +1371,7 @@
     }
   ],
   "terrain": {
-    "url": "/city/terrain-detail.json"
+    "url": "/FloodCity/city/terrain-detail.json"
   },
   "modelReports": [
     {

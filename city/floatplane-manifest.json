@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "shenzhen-bay-floatplane",
   "name": "湾翼 · 双浮筒观光飞机",
-  "asset": "/city/floatplane.glb",
+  "asset": "/FloodCity/city/floatplane.glb",
   "assetStats": {
     "file": "floatplane.glb",
     "bytes": 177916,

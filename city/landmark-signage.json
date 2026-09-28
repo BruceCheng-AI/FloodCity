@@ -5,7 +5,7 @@
     {
       "id": "tencent-south-roof",
       "exactText": "Tencent",
-      "url": "/city/textures/signage/tencent-south-roof.png",
+      "url": "/FloodCity/city/textures/signage/tencent-south-roof.png",
       "width": 512,
       "height": 96,
       "bytes": 11620,
@@ -23,7 +23,7 @@
     {
       "id": "tencent-low-link-bilingual",
       "exactText": "Tencent 腾讯",
-      "url": "/city/textures/signage/tencent-low-link-bilingual.png",
+      "url": "/FloodCity/city/textures/signage/tencent-low-link-bilingual.png",
       "width": 512,
       "height": 128,
       "bytes": 15120,
@@ -40,7 +40,7 @@
     {
       "id": "qijie-entry-bilingual",
       "exactText": "七街公館\nSEVENTH AVENUE RESIDENCE",
-      "url": "/city/textures/signage/qijie-entry-bilingual.png",
+      "url": "/FloodCity/city/textures/signage/qijie-entry-bilingual.png",
       "width": 512,
       "height": 128,
       "bytes": 8501,
@@ -58,7 +58,7 @@
     {
       "id": "fortune-roof-name",
       "exactText": "财富广场",
-      "url": "/city/textures/signage/fortune-roof-name.png",
+      "url": "/FloodCity/city/textures/signage/fortune-roof-name.png",
       "width": 512,
       "height": 128,
       "bytes": 7346,
@@ -77,7 +77,7 @@
     {
       "id": "mixc-street-link-entry",
       "exactText": "the miXc 万象天地",
-      "url": "/city/textures/signage/mixc-street-link-entry.png",
+      "url": "/FloodCity/city/textures/signage/mixc-street-link-entry.png",
       "width": 512,
       "height": 128,
       "bytes": 9693,
@@ -97,7 +97,7 @@
       "id": "tencent-south-roof",
       "placeId": "tencent",
       "text": "Tencent",
-      "textureUrl": "/city/textures/signage/tencent-south-roof.png",
+      "textureUrl": "/FloodCity/city/textures/signage/tencent-south-roof.png",
       "position": [
         -5838.31421675542,
         142.84799999999998,
@@ -126,7 +126,7 @@
       "id": "qijie-entry-bilingual",
       "placeId": "qijie-gongguan",
       "text": "七街公館\nSEVENTH AVENUE RESIDENCE",
-      "textureUrl": "/city/textures/signage/qijie-entry-bilingual.png",
+      "textureUrl": "/FloodCity/city/textures/signage/qijie-entry-bilingual.png",
       "position": [
         146.90674013928395,
         3.84,
@@ -170,7 +170,7 @@
       "id": "fortune-roof-name",
       "placeId": "fortune-plaza",
       "text": "财富广场",
-      "textureUrl": "/city/textures/signage/fortune-roof-name.png",
+      "textureUrl": "/FloodCity/city/textures/signage/fortune-roof-name.png",
       "position": [
         -227.3090877900163,
         52.68,
